@@ -2,6 +2,9 @@
 
 <h3>Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?</h3>
 
+
+
+
 <h3>What did you do particularly well in developing this documentation?</h3>
 
 <h3>What about the process of working through a design document did you find helpful when developing the code?</h3>
