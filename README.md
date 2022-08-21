@@ -24,5 +24,7 @@ First I had to really understand the user's needs and then do research so I can 
 
 <h3>How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?</h3>
 
-The software design template helped understand on what had to be done and what things I should do the most research on to understand the optimal solution to this project. 
+The software design template helped understand on what had to be done and what things I should do the most research on to understand the optimal solution to this project. This also helped me to be able to communicate it effectively to a client and development team members.
+
+
 
