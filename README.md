@@ -7,12 +7,22 @@ Creative Technology Solutions (CTS) wants to develop a web-page game that serves
 
 <h3>What did you do particularly well in developing this documentation?</h3>
 
+What I did well in developing this docuemnt was doing enough reserach about Operating Systems Architecture, Storage Management, Memory Management, Distributed Systems and Networks, Security and the pros and cons of Mac, Linux, Windows and Mobile Devices.
+
 <h3>What about the process of working through a design document did you find helpful when developing the code?</h3>
 
+I found it very helpful working thourgh the design doscuemnt when developing the code since it the design document made me underdstand this project better, making it easier to develope the code. 
+
 <h3>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?</h3>
+
+I would probably to even more research on these topics and just add more information to the project. 
 
 
 <h3>How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?</h3> 
 
+First I had to really understand the user's needs and then do research so I can approach these needs. 
+
 <h3>How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?</h3>
+
+The software design template helped understand on what had to be done and what things I should do the most research on to understand the optimal solution to this project. 
 
